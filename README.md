@@ -52,7 +52,7 @@ class Command(BaseCommand):
         st.run(stop_on_error=True)
 ```
 
-迁移工具 SuperTube 和 TubeSet 更多说明和例子参考[这个文档](https://github.com/FingerLiu/django-supertube/supertube.py)
+迁移工具 SuperTube 和 TubeSet 更多说明和例子参考[这个文档](https://github.com/FingerLiu/django-supertube/blob/master/supertube.py)
 
 # 一个为 latency 中的旧数据建表的例子：
 ``` python
