@@ -16,7 +16,7 @@ DATABASES = {
 ## management/commands/mig_01_user.py
 ```python
 from django.utils import timezone
-from si.tools.supertube import SuperTube, TubeSet
+from .supertube import SuperTube, TubeSet
 """
 class LatencyUser:
     email
